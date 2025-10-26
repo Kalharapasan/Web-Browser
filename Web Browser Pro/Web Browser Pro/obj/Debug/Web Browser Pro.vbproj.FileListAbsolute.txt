@@ -1,0 +1,70 @@
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.exe.config
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.exe
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.pdb
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.vbprojAssemblyReference.cache
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web_Browser_Pro.Form1.resources
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web_Browser_Pro.Resources.resources
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.vbproj.GenerateResource.cache
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.vbproj.CoreCompileInputs.cache
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.exe
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.pdb
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\SQLABC_ModernUI.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Bunifu.Core.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.vbproj.CopyComplete
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web_Browser_Pro.sidebar.resources
+C:\Users\Iksoft Original GH\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web_Browser_Pro.Bookmarks.resources
+D:\MASTER PACKAGES\MASTER PROJECTS\source\repos\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.exe.config
+D:\MASTER PACKAGES\MASTER PROJECTS\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.exe
+D:\MASTER PACKAGES\MASTER PROJECTS\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.xml
+D:\MASTER PACKAGES\MASTER PROJECTS\source\repos\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.pdb
+E:\Software_Project\VB.NET\Downloads\Web Browser Pro\Web Browser Pro\bin\Debug\Web Browser Pro.exe.config
+E:\Software_Project\VB.NET\Downloads\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.xml
+E:\Software_Project\VB.NET\Downloads\Web Browser Pro\Web Browser Pro\obj\Debug\Web Browser Pro.pdb
