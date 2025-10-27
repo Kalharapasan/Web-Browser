@@ -92,6 +92,3 @@ Web Browser Pro/
 
 
 ---
-
-**Author:** Unknown (2019 release)  
-**Updated README:** 2025 by ChatGPT
