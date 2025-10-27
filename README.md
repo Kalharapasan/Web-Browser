@@ -87,8 +87,9 @@ Web Browser Pro/
 
 ## 📄 License
 
-This project is provided for educational and demonstration purposes.  
-You may modify and distribute it freely with attribution.
+📄 [License](./LICENSE.md): Proprietary – Permission Required
+
+
 
 ---
 
